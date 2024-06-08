@@ -9,7 +9,7 @@ count: false
 .p60[![Ferris](./images/ferris.svg)]
 
 .me[.grey[*by* **Nicholas Matsakis**]]
-.left[.citation[View slides at `https://nikomatsakis.github.io/talkrepo/`]]
+.left[.citation[View slides at `https://nikomatsakis.github.io/OPLSS-2024/`]]
 
 ---
 
